@@ -1,0 +1,28 @@
+h1{
+    color:#00ffff
+}
+
+
+.header{
+    background-color:#0000ff;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+  justify-content: space-evenly;  
+}
+h2,p{
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    color:#ffffff;
+}
+ul{
+   background-color:#adff2f;
+}
+.item p{
+    background-color: #3cc705;
+}
